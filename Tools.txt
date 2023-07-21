@@ -1,0 +1,34 @@
+#DrillingTools
+ID_1 Radius_5.000 Length_219.72 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_85.000 Saw_0 HolderRadius_30.000
+ID_26 Radius_1.500 Length_150.700 MaxSpindleSpeed_18000 PrescribedSpindleSpeed_3000 Turn_3 CutLength_35.000 Saw_0 HolderRadius_30.000
+ID_27 Radius_2.450 Length_227.670 MaxSpindleSpeed_18000 PrescribedSpindleSpeed_3000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
+ID_118 Radius_4.000 Length_166.730 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_8000 Turn_3 CutLength_75.000 Saw_0 HolderRadius_30.000
+ID_44 Radius_3.750 Length_131.600 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_6000 Turn_3 CutLength_30.000 Saw_0 HolderRadius_55.000
+
+#MillingTools
+ID_135 Radius_15.00 Length_218.260 MaxSpindleSpeed_14000 PrescribedSpindleSpeed_12500 Turn_3 CutLength_130.000 Saw_0 HolderRadius_30.000
+ID_57 Radius_5.865 Length_152.490 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_70.000 Saw_0 HolderRadius_30.000
+ID_160 Radius_10.000 Length_165.400 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_50.000 Saw_0 HolderRadius_30.000
+ID_42 Radius_9.117 Length_156.72 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_12000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
+ID_53 Radius_6.969 Length_182.130 MaxSpindleSpeed_20000 PrescribedSpindleSpeed_2000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
+ID_140 Radius_7.098 Length_215.03 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_120.000 Saw_0 HolderRadius_30.000
+ID_74 Radius_20.000 Length_258.37 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_11000 Turn_3 CutLength_160.000 Saw_0 HolderRadius_30.000
+ID_75 Radius_20.000 Length_259.85 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_11000 Turn_3 CutLength_160.000 Saw_0 HolderRadius_30.000
+
+
+#Probe
+ID_100 Radius_3.000 Length_229.100 MaxSpindleSpeed_0 PrescribedSpindleSpeed_0 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
+
+#Engraver
+ID_47 Radius_0.010 Length_105.120 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_5.000 Saw_0 HolderRadius_30.000
+
+#Surfacer
+ID_37 Radius_40.000 Length_117.410 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_6000 Turn_3 CutLength_10.000 Saw_0 HolderRadius_55.000
+
+#Saw
+ID_21 Radius_150.000 Length_150.750 MaxSpindleSpeed_3000 PrescribedSpindleSpeed_3000 Turn_3 CutLength_5.000 Saw_1 HolderRadius_60.000
+
+#Conic
+ID_250 Radius_11.31 Length_154.280 MaxSpindleSpeed_18000 PrescribedSpindleSpeed_2000 Turn_3 CutLength_30.000 Saw_0 HolderRadius_30.000
+
+
