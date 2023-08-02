@@ -9,11 +9,11 @@ ID_44 Radius_3.750 Length_131.600 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_6
 ID_135 Radius_15.00 Length_218.260 MaxSpindleSpeed_14000 PrescribedSpindleSpeed_12500 Turn_3 CutLength_130.000 Saw_0 HolderRadius_30.000
 ID_57 Radius_5.865 Length_152.490 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_70.000 Saw_0 HolderRadius_30.000
 ID_160 Radius_10.000 Length_165.400 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_50.000 Saw_0 HolderRadius_30.000
-ID_42 Radius_9.117 Length_156.72 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_12000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
-ID_53 Radius_6.969 Length_182.130 MaxSpindleSpeed_20000 PrescribedSpindleSpeed_2000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
+ID_42 Radius_9.930 Length_169.23 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_12000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
+ID_53 Radius_7.143 Length_195.12 MaxSpindleSpeed_20000 PrescribedSpindleSpeed_2000 Turn_3 CutLength_80.000 Saw_0 HolderRadius_30.000
 ID_140 Radius_7.098 Length_215.03 MaxSpindleSpeed_24000 PrescribedSpindleSpeed_18000 Turn_3 CutLength_120.000 Saw_0 HolderRadius_30.000
-ID_74 Radius_20.000 Length_258.37 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_11000 Turn_3 CutLength_160.000 Saw_0 HolderRadius_30.000
-ID_75 Radius_20.000 Length_259.85 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_11000 Turn_3 CutLength_160.000 Saw_0 HolderRadius_30.000
+ID_74 Radius_19.775 Length_258.29 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_11000 Turn_3 CutLength_160.000 Saw_0 HolderRadius_30.000
+ID_75 Radius_20.000 Length_259.68 MaxSpindleSpeed_12000 PrescribedSpindleSpeed_11000 Turn_3 CutLength_160.000 Saw_0 HolderRadius_30.000
 
 
 #Probe
